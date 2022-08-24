@@ -12,6 +12,8 @@
   "author": "Edwin Garcia Quiterio edwinegq@outlook.com",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
